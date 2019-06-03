@@ -5753,11 +5753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NewGit\\CSVFileComparsion\\CSVFileComparisionTests\\CSVFileComparisionTests.csproj",
+      "projectUniqueName": "C:\\git\\CSVFileComparision\\CSVFileComparsion\\CSVFileComparisionTests\\CSVFileComparisionTests.csproj",
       "projectName": "CSVFileComparisionTests",
-      "projectPath": "C:\\NewGit\\CSVFileComparsion\\CSVFileComparisionTests\\CSVFileComparisionTests.csproj",
+      "projectPath": "C:\\git\\CSVFileComparision\\CSVFileComparsion\\CSVFileComparisionTests\\CSVFileComparisionTests.csproj",
       "packagesPath": "C:\\Users\\Suresh.Nammi\\.nuget\\packages\\",
-      "outputPath": "C:\\NewGit\\CSVFileComparsion\\CSVFileComparisionTests\\obj\\",
+      "outputPath": "C:\\git\\CSVFileComparision\\CSVFileComparsion\\CSVFileComparisionTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5776,8 +5776,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\NewGit\\CSVFileComparsion\\CSVFileComparsion\\CSVFileComparsion.csproj": {
-              "projectPath": "C:\\NewGit\\CSVFileComparsion\\CSVFileComparsion\\CSVFileComparsion.csproj"
+            "C:\\git\\CSVFileComparision\\CSVFileComparsion\\CSVFileComparsion\\CSVFileComparsion.csproj": {
+              "projectPath": "C:\\git\\CSVFileComparision\\CSVFileComparsion\\CSVFileComparsion\\CSVFileComparsion.csproj"
             }
           }
         }

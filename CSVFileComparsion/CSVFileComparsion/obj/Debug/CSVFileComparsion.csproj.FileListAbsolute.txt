@@ -19,3 +19,10 @@ C:\FComparision\CSVTestFileComparisionV2\CSVFileComparsion\CSVFileComparsion\obj
 C:\FComparision\CSVTestFileComparisionV2\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.csproj.CoreCompileInputs.cache
 C:\FComparision\CSVTestFileComparisionV2\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.exe
 C:\FComparision\CSVTestFileComparisionV2\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.pdb
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.exe.config
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.exe
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\bin\Debug\CSVFileComparsion.pdb
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.csprojAssemblyReference.cache
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.csproj.CoreCompileInputs.cache
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.exe
+C:\git\CSVFileComparision\CSVFileComparsion\CSVFileComparsion\obj\Debug\CSVFileComparsion.pdb
